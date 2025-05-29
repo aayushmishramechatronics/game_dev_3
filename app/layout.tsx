@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "2D Chess",
+  title: "Aayush Mishra",
   description: "Game of Minds",
     generator: 'v0.dev'
 }
